@@ -1,2 +1,4 @@
 This is about task 2
 An apple is a fruit
+this is some random text
+A sentence is a group of words that expresses a complete thought or idea.
